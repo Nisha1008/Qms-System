@@ -1,0 +1,131 @@
+.container {
+    width: 100%;
+    height: 100%;
+}
+
+.heading {
+    color: rgb(3, 3, 100);
+    display: block;
+    text-align: center;
+}
+
+/* fieldset {
+    border: 2px solid black;
+} */
+.legend {
+    background-color: #348f;
+    color: #fff;
+    padding: 3px 6px;
+}
+
+.legend1 {
+    background-color: #348f;
+    color: #348f;
+    padding: 3px 6px;
+}
+
+span {
+    color: blue;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 600;
+}
+
+.check {
+    color: red;
+}
+
+.checkbox {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+
+
+.postContent {
+    position: absolute;
+    top: 140px;
+    right: 500px;
+    height: 170px;
+    width: 150px;
+    border: 1px solid black;
+}
+
+.time {
+
+    position: absolute;
+    top: 160px;
+    right: 200px;
+    font-weight: bold;
+    font-size: larger;
+}
+
+.input {
+    width: 15%;
+    margin-left: 10px;
+}
+
+/* .textarea {
+    /* position: absolute;
+    left: 600px;
+    top: 150px; 
+    display: flex;
+    margin-left: 60%;
+    position: absolute;
+    margin-right: 20%;
+} */
+.btn {
+    margin-top: 20px;
+    margin-left: 400px;
+
+}
+
+.btn1 {
+    margin-top: 40px;
+}
+
+.exit {
+    margin-right: 180px;
+    padding: 5px 40px 5px 40px;
+    font-weight: 650;
+}
+
+.btn3 {
+    margin-right: 20px;
+    padding: 5px 40px 5px 40px;
+
+
+}
+
+.footer-head {
+
+    margin-left: 800px;
+    padding: 5px 40px 5px 40px;
+    font-weight: 700;
+}
+
+.foot {
+
+    margin-left: 80%;
+    padding: 5px 40px 5px 40px;
+    font-weight: 800;
+    background-color: green;
+    color: #fff;
+}
+
+
+.footer {
+    margin-left: 600px;
+
+}
+
+.footer>.footbtn {
+    padding: 5px 40px 5px 40px;
+    font-weight: 700;
+}
+
+.refresh {
+    margin-left: 100px;
+    color: blue;
+    padding: 5px 40px 5px 40px;
+    font-weight: 700;
+}
